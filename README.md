@@ -87,6 +87,6 @@ The ML version adds `user_label`, `ml_prediction`, `ml_probability`, `fold_chang
 
 Please open an [issue](../../issues) for bug reports, questions, or feature requests.
 
-## Citation
+## Citation and license
 
-If SimpleTrack helps your research, please cite this repository.
+If SimpleTrack helps your research, please cite this repository. Released under the [MIT License](LICENSE).
